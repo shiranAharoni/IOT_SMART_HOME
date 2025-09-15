@@ -1,0 +1,9 @@
+{
+  "host": "broker.hivemq.com",
+  "port": 8883,
+  "username": "",
+  "password": "",
+  "client_prefix": "iot-sh-",
+  "base_topic": "shiran_home"
+}
+
